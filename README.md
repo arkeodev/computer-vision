@@ -11,7 +11,7 @@ My journey to demystify deep learning is a personal one. I create Jupyter notebo
 
 **Image Segmentation:** Segmenting images to understand the different objects and their boundaries.
 
-## Next on My Learning List
+## Next on My List
 
 **Diffusion Models:** Venturing into the latest generative model techniques to grasp the process of creating complex images from noise.
 
