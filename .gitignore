@@ -117,3 +117,6 @@ dmypy.json
 
 # Jupyter Files
 .jupyter/
+
+# Mac OS files
+.DS_Store
