@@ -5,12 +5,13 @@ Welcome to **Demystify Deep Learning Applications**! This project is dedicated t
 My journey to demystify deep learning is a personal one. I create Jupyter notebooks as a way to solidify my understanding of complex concepts by implementing them. Rather than just consuming information through videos and articles, I find that actively working through the problems and coding the solutions is where true learning occurs. This repository serves as my learning diary, where each notebook is a chapter of my growing expertise in deep learning.
 
 ## My Collection of Notebooks
-**Variational Autoencoders:** Understanding the generative magic behind creating new, unseen data. ***(DRAFT)***
+**Variational Autoencoders:** Understanding the generative magic behind creating new, unseen data.
 
 **Object Detection with YOLO:** Dissecting the swift and accurate real-time object detection YOLO provides. ***(DRAFT)***
 
-## Next on My Learning List
 **Image Segmentation:** Segmenting images to understand the different objects and their boundaries.
+
+## Next on My Learning List
 
 **Diffusion Models:** Venturing into the latest generative model techniques to grasp the process of creating complex images from noise.
 
