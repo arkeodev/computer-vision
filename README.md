@@ -11,7 +11,7 @@ My journey to demystify deep learning is a personal one. I create Jupyter notebo
 
 **Image Segmentation:** Segmenting images to understand the different objects and their boundaries.
 
-**Positional Embeddings:** Dissolving the role of positional embeddings in Transformers Models.
+**Positional Embeddings:** Dissolving the role of positional embeddings in Transformers Models. This tries to explains Sinusodial, RoPE (Rotary Positional Embeddings), ALiBi (Attention with Linear Biases) positional embeddings solutions.
 
 ## Next on My List
 
