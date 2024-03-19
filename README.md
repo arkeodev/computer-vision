@@ -13,9 +13,11 @@ My journey to demystify deep learning is a personal one. I create Jupyter notebo
 
 **Positional Embeddings:** Dissolving the role of positional embeddings in Transformers Models. This tries to explains Sinusodial, RoPE (Rotary Positional Embeddings), ALiBi (Attention with Linear Biases) positional embeddings solutions.
 
+**Diffusion Models:** Creating complex images from noise.
+
 ## Next on My List
 
-**Diffusion Models:** Venturing into the latest generative model techniques to grasp the process of creating complex images from noise.
+**Explainable AI (XAI):** Refers to artificial intelligence systems designed to provide insights into their processes and decisions in a way that is understandable to humans.
 
 ## Features
 
