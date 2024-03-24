@@ -17,7 +17,7 @@ My journey to demystify deep learning is a personal one. I create Jupyter notebo
 
 ## Next on My List
 
-**Explainable AI (XAI):** Refers to artificial intelligence systems designed to provide insights into their processes and decisions in a way that is understandable to humans.
+**Stable Diffusion:** Stable Diffusion is an open-source, versatile deep learning model capable of generating high-quality, detailed images from textual descriptions.
 
 ## Features
 
