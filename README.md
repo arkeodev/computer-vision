@@ -1,6 +1,6 @@
-# Demystify Deep Learning Applications
+# Computer Vision
 
-Welcome to **Demystify Deep Learning Applications**! This project is dedicated to exploring and simplifying deep learning models and their applications. 
+Welcome to **Computer Vision**! This project is dedicated to exploring and simplifying deep learning models and their applications. 
 
 My journey to demystify deep learning is a personal one. I create Jupyter notebooks as a way to solidify my understanding of complex concepts by implementing them. Rather than just consuming information through videos and articles, I find that actively working through the problems and coding the solutions is where true learning occurs. This repository serves as my learning diary, where each notebook is a chapter of my growing expertise in deep learning.
 
@@ -29,8 +29,8 @@ My journey to demystify deep learning is a personal one. I create Jupyter notebo
 ## Installation
 
 ```bash
-git clone https://github.com/arkeodev/demistify_deep_learning_applications.git
-cd demistify_deep_learning_applications
+git clone https://github.com/arkeodev/computer-vision.git
+cd computer-vision
 # Follow specific setup instructions for individual applications or models
 ```
 
